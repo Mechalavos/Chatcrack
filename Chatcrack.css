@@ -1,0 +1,1552 @@
+/* Css Designed by 4 Sight  */
+
+#header {
+    border-bottom: 1px solid #ffffff;
+    background-color: #18191b;
+}
+
+#header .btn {
+    box-shadow: 5px 4px 15px 1px #10001066 !important;
+}
+
+#smileyButton:hover, #clearButton:hover, #djBtn:hover {
+    color: #f5f6f8;
+}
+
+.btn-success:hover {
+    background-color: #18191b;
+    border: 1px solid #47c17b !important;
+}
+
+.btn-danger:hover {
+    background-color: #18191b !important;
+    border-color: #ff0142 !important;
+}
+
+.btn-group {
+    border-top: 1px solid #37383ae0;
+    box-shadow: 1px -1px 24px #1e1d1d4a;
+}
+
+.open #usersContainer, #usersContainer {
+    background-color: #18191b !important;
+}
+
+.myUsername {
+    color: white;
+}
+
+.userAvatar {
+    border: 1px solid #5d6270;
+}
+
+#myWebcamContainer label.btn {
+    font-size: 0.9em;
+    color: #d7d7d7;
+}
+
+#myWebcamContainer label.btn:hover {
+    color: #d8d7d7;
+}
+
+.status.online {
+    background-color: #50cd84;
+    border: 4px solid #3a3b3d;
+}
+
+.open #chatContainer {
+    background-color: #18191b !important;
+}
+
+#broadcastCheckBox:disabled {
+    color: white !important;
+}
+
+.message .timeStamp {
+    color: #18191b;
+}
+
+.message-text {
+    color: white;
+}
+
+div.message div.content {
+    background-color: #18191b;
+    box-shadow: -4px 5px 10px -5px #00000045;
+}
+
+.msg-user-img {
+    box-shadow: -5px 5px 8px -5px #18191bbd;
+}
+
+.search-bar {
+    border-top: 1px solid #ffffff;
+    box-shadow: 14px 0px 14px 1px #0000001f;
+}
+
+.users-info {
+    border-bottom: 1px solid #ffffff;
+    color: #ffffff;
+}
+
+.online-user-item:nth-child(odd) {
+    background-color: #18191b;
+}
+
+#searchInput::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    color: #525a71;
+}
+
+#searchInput::-moz-placeholder {
+    /* Firefox 19+ */
+    color: #525a71;
+}
+
+#searchInput:-ms-input-placeholder {
+    /* IE 10+ */
+    color: #525a71;
+}
+
+#searchInput:-moz-placeholder {
+    /* Firefox 18- */
+    color: #525a71;
+}
+
+.emojionearea .emojionearea-editor {
+    font-size: .8em;
+    /* color: white; */
+}
+
+div.colorPicker-picker {
+    border: 2px solid #3a3b3d;
+}
+
+.checkbox label::before {
+    border: 1px solid #ffffff;
+    background-color: transparent;
+}
+
+.checkbox label::after {
+    color: #3a3b3d;
+}
+
+.userItem img.avatarUser {
+    border: 1px solid #3a3b3d52;
+    box-shadow: 1px 0px 8px 1px #262c3ad1;
+}
+
+.welcome {
+    background-color: #18191b;
+    border: 1px solid #f3f1f1;
+    color: #50ce85;
+}
+
+#searchInput {
+    background-color: transparent;
+    color: #d9d9d9;
+}
+
+.fa.fa-search {
+    color: #ffffff;
+}
+
+#footer {
+    background-color: transparent;
+}
+
+#chatInputContainer {
+    border: 0px solid #e1e1e1;
+}
+
+#cleanButtonContainer, #smileyButtonContainer, #djButtonContainer, #pushTalkButtonContainer, #pushToTalkFreeHandContainer {
+    color: #3a3b3d;
+}
+
+.message img, .addPrivateMessage b img {
+    border: 1px solid #3a3b3d61;
+}
+
+.filtergender {
+    border-top: 1px solid #343840;
+    box-shadow: 1px -1px 24px #0000004a;
+    border-bottom: 1px solid #272c36;
+}
+/*she makes every smile I have mean something where I dont have to fake who I am anymore  */
+#userList::-webkit-scrollbar {
+    width: 10px;
+    border-radius: 20px;
+}
+
+#userList::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(255, 255, 255, 0.5);
+    border-radius: 20px;
+}
+
+#userList::-webkit-scrollbar-thumb {
+    background-color: #ffffff;
+    outline: 1px solid #ffffff;
+    border-radius: 20px;
+}
+
+.slide_block {
+    background-color: #ffffff;
+    box-shadow: 0 10px 50px rgba(0, 0, 0, 0.1), 0 4px 14px rgba(0, 0, 0, 0.4);
+}
+
+
+#pushTalkBtn {
+}
+
+.serverText {
+    background-color: #18191b !important;
+    color: #ffffff;
+}
+
+div.news {
+    border: 0px solid #18191b;
+    background-color: #18191b;
+    color: #adadad;
+}
+
+.emojionearea, .emojionearea.form-control {
+    background-color: #ffffff;
+}
+
+#sortBtn {
+    background: transparent;
+    color: #3a3b3d;
+    border: 1px solid #3a3b3d;
+}
+
+.user:hover, #myUserMenu, #userMenu {
+    background-color: #18191b;
+}
+
+#myUserMenu, #userMenu {
+    border: 1px solid #ffffff;
+    box-shadow: 2px 3px 30px 3px #0000004a;
+    color: white;
+}
+
+.menuUserItem:hover {
+    background-color: #18191b;
+}
+
+.webcamBtn {
+    background-color: #18191b;
+    color: white;
+    box-shadow: 2px 2px 10px 0px #00000085;
+}
+
+.webcamBtn .fa, .eye-icon .fa-eye {
+    text-shadow: 1px 0px 3px #1f1f1fbd;
+}
+
+div.pointsQuiz {
+    background-color: #18191b;
+}
+
+.webcamBtn .fa-unlock, .webcamBtn .fa-lock {
+    color: #ffffff !important;
+}
+
+.hand {
+    background-color: transparent;
+    border: 0px solid #3a3b3d;
+}
+
+.hand .fa, .hand .glyphicon {
+    color: #3a3b3d;
+}
+
+/* ============ login modal-dark ============ */
+
+
+.dark-modal .close {
+    color: white;
+    font-size: 32px;
+}
+
+.dark-modal .modal-header {
+    border-bottom: 0px solid #ffffff;
+    margin: 5px 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.dark-modal .table-bordered > tbody > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > thead > tr > th {
+    border: 1px solid #ffffff;
+    border-top: 0px;
+}
+
+.dark-modal .table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: #18191b;
+}
+
+.dark-modal .table-bordered {
+    border: 1px solid #ffffff;
+    border-bottom: 0px;
+}
+
+.dark-modal .table > caption + thead > tr:first-child > td, .table > caption + thead > tr:first-child > th, .table > colgroup + thead > tr:first-child > td, .table > colgroup + thead > tr:first-child > th, .table > thead:first-child > tr:first-child > td, .table > thead:first-child > tr:first-child > th {
+    border-top: 0;
+    border-bottom: 1px solid #ffffff;
+}
+/* Ari Keeps pushing me to do more and more but I get so tired and miss my best friend I feel like I cant talk to her much because im so busy  */
+.table-hover > tbody > tr:hover, .dark-modal .table-striped > tbody > tr:nth-of-type(odd):hover {
+    background-color: #18191b;
+}
+
+.dark-modal .modal-body {
+    color: #cecdcd;
+    padding: 30px;
+    font-weight: 100;
+}
+
+#smileyContentLoader {
+    background-color: #ffffff !important;
+    top: 60px !important;
+    height: calc(100% - 60px);
+    padding: 40px !important;
+    color: #3a3b3d !important;
+}
+
+.dark-modal .modal-footer {
+    border-top: 0px solid #ffffff;
+}
+
+.dark-modal .form-group input {
+    background-color: transparent !important;
+    border: none;
+    border-bottom: 1px solid #ffffff;
+    /*padding: 20px 0px;*/
+    margin-top: 7px;
+    color: #3a3b3d;
+    border-radius: 0px;
+    box-shadow: 0px 0px white;
+}
+
+.dark-modal .form-group .radio input {
+    outline: none !important;
+}
+
+.dark-modal .modal-title {
+    color: #3a3b3d;
+    font-weight: 600;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.dark-modal .radio {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.dark-modal #loginGuestBtn {
+    padding: 5px 25px;
+    background: #ff0142;
+    border-color: #ff0142!important;
+}
+
+.dark-modal .radio-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    margin-top: 30px;
+}
+
+#smileyContainer {
+    background-color: #ffffff;
+}
+
+#smileysHeader {
+    background: #3a3b3d;
+    border-bottom: 1px solid rgb(74, 82, 102);
+    color: white;
+}
+
+#searchGifInput {
+    border: 0px solid #686868;
+    background-color: #18191b !important;
+    border-top: 1px solid #ffffff;
+    color: white;
+    box-shadow: 1px -1px 24px #0000004a;
+}
+
+.info-icons {
+    color: #3a3b3d !important;
+}
+
+.eyeIcon .fa-2x {
+    font-size: 18px !important;
+    margin-right: 11px;
+    color: #232a3a;
+}
+
+.dark-blue-btn {
+    background-color: #18191b;
+    border: none;
+    box-shadow: 1px 1px 3px 1px #0000003d !important;
+    border: 0px solid #292d38;
+}
+
+.dark-blue-btn.active {
+    background-color: #18191b;
+    color: #faf8f8 !important;
+    border: 0px;
+}
+
+
+.addPrivateMessage .emojioneemoji {
+    width: 25px !important;
+    height: 25px !important;
+}
+
+.btn-group .btn + .btn, .btn-group .btn + .btn-group, .btn-group .btn-group + .btn, .btn-group .btn-group + .btn-group {
+    margin-left: 0px;
+}
+
+.form-control:focus {
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(102, 175, 233, 0.17);
+}
+
+.modal-gender-img {
+    border-radius: 0px;
+}
+
+#usernameGuestLogin {
+    height: 40px;
+    padding: 10px 0px;
+}
+
+#usernameGuestLogin::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    color: #404b65;
+}
+
+#usernameGuestLogin::-moz-placeholder {
+    /* Firefox 19+ */
+    color: #404b65;
+}
+
+#usernameGuestLogin:-ms-input-placeholder {
+    /* IE 10+ */
+    color: #404b65;
+}
+
+#usernameGuestLogin:-moz-placeholder {
+    /* Firefox 18- */
+    color: #404b65;
+}
+
+.radio input {
+    outline: none !important;
+}
+
+.radio label::after {
+    background-color: #18191b;
+}
+
+input[type=file]:focus, input[type=checkbox]:focus, input[type=radio]:focus {
+    outline: 0px;
+}
+
+
+.whisper {
+  background-color: #18191b !important;
+}
+
+
+.radio label::before {
+    border: 1px solid #ffffff;
+    background-color: transparent;
+}
+
+.name-time {
+}
+
+.open .slide_block:before {
+    border-color: transparent transparent transparent #ffffff;
+}
+
+#chatInput {
+    background-color: white;
+    border: 0px solid white;
+}
+
+.addPrivateMessage.message .content {
+    margin-top: 35px;
+    margin-left: 0;
+}
+
+.addPrivateMessage:after {
+    display: inline-block;
+    position: absolute;
+    content: 'Mention';
+    width: auto;
+    height: 25px;
+    padding: 4px 12px;
+    right: 0;
+    font-size: 12px;
+    top: -7px;
+    color: white;
+    margin-top: 7px;
+    background-color: #18191b;
+    border-bottom-left-radius: initial;
+}
+
+.nav-tabs {
+    border-bottom: 1px solid #f3f3f3;
+    background-color: white;
+}
+
+.tab-content {
+    box-shadow: -2px 0px 25px -1px #a09f9f42;
+}
+
+
+.keyboard {
+    color: #3a3b3d;
+}
+
+div.colorPicker-palette {
+    border: 1px solid #3a3b3d;
+    background-color: #18191b;
+    padding: 5px;
+    background-color: #18191b;
+    z-index: 9999;
+    color: white;
+    border-radius: 4px;
+}
+
+.bootbox .modal-content {
+    background-color: #18191b;
+}
+
+.bootbox .modal-footer {
+    border: 0px;
+}
+
+.bootbox .close {
+    color: white;
+}
+
+.bootbox .bootbox-body {
+    color: #ff0142 !important;
+    text-align: center;
+    /*margin: 20px 0px -20px;*/
+}
+
+div.colorPicker_hexWrap label {
+    color: #3a3b3d;
+}
+
+.jsPanel .jsPanel-hdr, .jsPanel .jsPanel-content {
+    background-color: #18191b !important;
+}
+
+.jsPanel-theme-default {
+    background-color: #18191b !important;
+    border-color: #3a3b3d !important;
+    box-shadow: 0 16px 41px rgba(0, 0, 0, 0.5), 0 6px 16px rgba(0, 0, 0, 0.35) !important;
+}
+
+.webcamContainer {
+    border: 0px !important;
+}
+/* Craig keeps saying about how this chat cant do this or do that but hes so wrong because he knows nothing about programming and makes me so angry */
+.jsPanel-theme-default > .jsPanel-hdr * {
+    color: #dadada !important;
+}
+
+.fa-window-close {
+    margin-right: 10px !important;
+}
+
+.jsPanel-content.jsPanel-content-nofooter, .jsPanel-theme-default > .jsPanel-hdr .jsPanel-hdr-toolbar {
+    border-top: 1px solid rgb( 24, 25, 27) !important;
+}
+
+.mobile-text-lobby {
+    padding-left: 20px;
+}
+
+.message .userItem:hover {
+    background-color: transparent !important;
+}
+
+#pushToTalkWindow {
+    z-index: 1000;
+    background-color: #18191b;
+    box-shadow: -2px 0px 10px 5px #0000005c;
+    height: 130px;
+    border: 1px solid #ffffff;
+}
+
+#pushToTalkBtnClose {
+    font-size: 0.8em;
+    background-color: #18191b;
+    color: white;
+}
+
+#pushToTalkWindowHeader {
+    font-size: 0.8em;
+    color: #18191b;
+    border-bottom: 0px solid #ffffff;
+    padding-left: 10px;
+    background-color: #18191b;
+    color: white;
+    padding: 5px 10px;
+}
+
+#uploadImageBtnLabel {
+    color: white;
+    border: 1px solid white;
+}
+
+#uploadImageBtnLabel:after {
+    color: #18191b !important;
+}
+
+#youTubeCloseBtn {
+    background-color: #18191b;
+    color: white;
+}
+
+#header {
+    background-color: #18191b !important;
+    border-bottom: 0px solid #ffffff !important;
+}
+
+#footer .emojionearea.emojionearea-inline {
+    border: 1px solid #3a3b3d !important;
+    background-color: #18191b;
+}
+
+#container {
+    background-color: #18191b;
+}
+
+.chat-input-icons img, .emojionearea-button, .svg-header-icons, .home-tab {
+    filter: invert(100%);
+}
+
+#send-msg-btn {
+    background-color: #18191b;
+    color: #e3e3e3;
+}
+#send-msg-btn:hover {
+    border: 1px solid #666;
+}
+
+.open #chatContainer .tab-pane {
+    background-color: #18191b;
+}
+
+#usersContainer2, #roomsContainer2 {
+    border-left: 1px solid #ffffff !important;
+}
+
+.menuUserItem {
+    color: #d7d7d7 !important;
+}
+
+.open #tabs {
+    padding-left: 20px !important;
+    margin-left: 0px !important;
+}
+
+#tabs .tab-content {
+    border: 0px solid #ebebeb;
+    box-shadow: 12px 0px 15px -7px ffffff;
+}
+
+.open #chatContainer #usersContainer2 .tab-pane {
+
+}
+
+#tabs .nav-tabs {
+    background-color: #18191b !important;
+    padding-left: 1px !important;
+    border-top: 1px solid #ffffff !important;
+}
+
+#usersContainer .nav-pills > li.active > a, #usersContainer .nav-pills > li.active > a:focus, #usersContainer .nav-pills > li.active > a:hover {
+    background-color: #18191b;
+    border-right: 0px solid #50ce85;
+    border-left: 1px solid #ffffff;
+    color: #50ce85;
+}
+
+.filtergender {
+    background-color: transparent !important;
+    border-bottom: 1px solid #3a3b3d !important;
+}
+
+#usersContainer li a {
+    color: #d6d6d6;
+    border-left: 1px solid #ffffff;
+    background-color: #18191b;
+    border-right: 1px solid #ffffff;
+}
+
+#usersContainer li.active a {
+    color: #ffffff;
+}
+
+#usersContainer li.active a .badge {
+    color: #3a3b3d;
+    background-color: #18191b !important;
+}
+
+#usersContainer .nav-pills > li.active > a:hover, #usersContainer .nav-pills > li > a:hover {
+    border-right: 0px solid #ffffff;
+    background-color: #18191b;
+    color: #d6d6d6;
+}
+
+#header .myUsername {
+    color: #d7d7d7 !important;
+}
+
+#usersContainer .nav-tabs > li.active > a, #usersContainer .nav-tabs > li.active > a:focus, #usersContainer .nav-tabs > li.active > a:hover {
+    color: #ffffff !important;
+    background-color: #18191b !important;
+    border: 1px solid #e7e7e7 !important;
+    border-bottom-color: #ffffff !important;
+}
+
+/* right content with users and search */
+
+#usersContainer .tab-content {
+    border-top: 0px solid #ffffff !important;
+    box-shadow: 0px 0px 0px 0px !important;
+}
+
+#header .status {
+    border: 3px solid #ffffff !important;
+}
+
+.hamburger-header {
+    background-color: transparent;
+}
+
+.hamburger-header div {
+    background-color: #18191b;
+}
+
+.dropdown-toggle .hamburger-header {
+  Color #ffffff
+}
+.ham-dropdown-list {
+    border: 1px solid #ffffff;
+    background-color:#18191b;
+}
+
+.ham-dropdown-list > li > a {
+    color: #ffffff;
+}
+
+.buttons-subnames {
+    color: #d7d7d7 !important;
+}
+
+.header-btn-wrap {
+    border-right: 1px solid #e3e3e3;
+}
+
+#tabs {
+    background-color: transparent;
+    padding: 0px;
+}
+
+.open #usersContainer {
+    box-shadow: 0px 0px !important;
+}
+
+.open #usersContainer2 .tab-pane {
+    border-left: 0px solid #3a3b3d;
+    background-color: red !important;
+}
+
+.open #roomsContainer2 {
+    box-shadow: 0px 0px !important;
+    border-left: 1px solid #ebebeb;
+}
+
+#header .btn-success:hover {
+    color: #fff;
+    background-color: #18191b;
+    border-color: #45b775;
+}
+
+.link-icons .fa {
+    color: #e3e3e3;
+}
+
+.chat-window-wrap div.message div.content {
+    box-shadow: 0px 0px 0px 0px;
+    background-color: #18191b !important;
+    border: 1px solid #ffffff;
+    border-top: 0px;
+    border-radius: 3px;
+}
+
+.chat-window-wrap .name-time .userItem {
+    color: #a3a6a9 !important;
+    text-shadow: 0px 0px !important;
+}
+
+.arrow-chat::after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    bottom: 0px;
+    left: 10px;
+    top: 3px;
+    box-sizing: border-box;
+    border: 6px solid #FFF;
+    border-color: #FFF #FFF transparent transparent;
+    transform-origin: 0 0;
+    transform: rotate(-45deg);
+    /* box-shadow: 2px -1px 1px 0 rgb(255, 255, 255); */
+}
+
+
+.emojionearea .emojionearea-button > div, .emojionearea .emojionearea-picker .emojionearea-wrapper:after {
+    background-image: url("http://www.pinclipart.com/picdir/middle/57-576104_banner-transparent-download-download-nerd-emoji-icon-emojis.png") !important;
+}
+
+.chat-input-icons .fa {
+    color: #e2e2e2;
+}
+
+#usersContainer2 .fa.fa-search {
+    color: #ff0142 !important;
+}
+
+#sortBtn {
+    border: 1px solid #ffffff;
+    background-color: #18191b;
+    color: #ff0142;
+}
+/* I miss talking to my UwU Queen I think about her all the time and hope shes doing okay sometimes my thoughts are a bit much that I hide even from her but I know things are fine between us I just worry I am too much at times and push her away */
+
+#searchInput::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #ffffff !important;
+    opacity: 1 !important;
+    /* Firefox */
+}
+
+#searchInput:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: #ffffff !important;
+}
+
+#searchInput::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: #ffffff !important;
+}
+
+.users-info {
+    background-color: transparent;
+    border-bottom: 1px solid #ffffff !important;
+    /*color: #18191b !important;*/
+    border-top: 1px solid #ffffff !important;
+}
+
+.filtergenderItem {
+    border: 0px !important;
+}
+
+#userList .status {
+    border: 3px solid #ffffff !important;
+}
+
+#userList .userItem img.avatarUser {
+    border: 1px solid #182129 !important;
+    box-shadow: 0 0;
+    box-shadow: 0 0 0 !important;
+}
+
+.keyboard {
+    color: #777 !important;
+}
+
+.eye-icon .fa-eye {
+    color: #b4b4b4 !important;
+}
+
+.webcamBtn {
+    background-color: #18191b !important;
+    color: #a2a2a2;
+    border-color: #666;
+}
+.webcamBtn:hover {
+  border-color:#FFF;
+    transition-duration: 0.2s;
+}
+.hand {
+    border: 0 solid #50ce85 !important;
+    background-color: transparent;
+}
+
+.hand:hover {
+    color: #fff;
+    background-color: #18191b;
+    border-color: #ffffff;
+}
+
+.table-bordered > tbody > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > thead > tr > th {
+    color: #c1c1c1;
+    border: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+}
+
+.light-modal .table > caption + thead > tr:first-child > td, .table > caption + thead > tr:first-child > th, .table > colgroup + thead > tr:first-child > td, .table > colgroup + thead > tr:first-child > th, .table > thead:first-child > tr:first-child > td, .table > thead:first-child > tr:first-child > th {
+    border: 1px solid #ffffff;
+    background-color: #18191b;
+    color: #e2e2e2;
+    border-top: 0px !important;
+    border-bottom: 1px solid #ffffff;
+}
+
+.userTabAvatar {
+    border: 1px solid #18191b;
+}
+
+#tabs .nav-tabs > li.active {
+    background-color: #18191b !important;
+    color: white !important;
+    border: 0px solid #ededed;
+}
+
+#tabs .nav-tabs > li.active .close {
+    color: #ff0142 !important;
+    opacity: .8;
+    text-shadow: 0px 0px;
+    font-size: 13px;
+    padding: 6px;
+    padding-top: 4px;
+}
+
+#tabs .nav-tabs > li.active a {
+    background-color: #18191b !important;
+    color: #50ce84 !important;
+    border: 0px solid #3a3b3d !important;
+    border-bottom: 0px !important;
+    padding: 8px 12px;
+}
+
+#tabs .nav-tabs > li {
+    border: 1px solid #ffffff;
+    height: 34px !important;
+    background-color: #18191b !important;
+    border-radius: 0 !important;
+    margin-right: 2px !important;
+}
+
+.nav > li > a {
+    border: none;
+}
+
+.jsPanel-theme-default {
+    background-color: #18191b;
+    border: 1px solid #dedede;
+}
+
+#sortBtn:hover, #sortWebcamtBtn:hover,  #sortWatchersBtn:hover{
+    color: #e3e3e3;
+    background-color: #18191b;
+    border-color: #ffffff;
+}
+
+.jsPanel-content.jsPanel-content-nofooter {
+    border-top: 0 !important;
+}
+
+.menuUserItem:hover {
+    background-color: #18191b;
+}
+
+#tabs .nav-tabs > li > a:hover {
+    border-color: #ffffff;
+    background-color: transparent;
+}
+
+.table-hover > tbody > tr:hover, .light-modal .table-striped > tbody > tr:nth-of-type(odd):hover, .light-modal .table-striped > tbody > tr:nth-of-type(even):hover {
+    background-color: #18191b;
+}
+
+.slide_block {
+    background-color: #18191b !important;
+    border: 1px solid #888;
+    border-right: 0;
+    box-shadow: 3px -2px 4px rgba(0, 0, 0, 0.05), 0 1px 10px rgba(0, 0, 0, 0.1) !important;
+}
+
+#backgroundsheader {
+    color: #cbcbcb;
+}
+
+#smileyContainer {
+    background-color: #ffffff;
+    box-shadow: 2px 2px 15px -1px #00000080;
+}
+
+#smileysHeader {
+    background: #232b36;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    color: #6b7181;
+}
+
+#searchGifInput {
+    border: 0px solid #686868;
+    background-color: #18191b;
+    border-top: 1px solid #ffffff;
+    box-shadow: 1px 1px 14px -3px #ffffff;
+}
+
+.bootbox .modal-content {
+    background-color: #18191b !important;
+    border: 1px solid #233037;
+    color: #ffffff !important;
+}
+
+.modal-content {
+    color: #ffffff !important;
+}
+
+.bootbox .modal-footer {
+    border-top: 1px solid #ffffff;
+}
+
+.modal-footer {
+    border-top: 1px solid #ffffff;
+}
+
+.modal-header {
+    color: white;
+    border-bottom: 1px solid #ffffff;
+}
+
+.close {
+    color: #ffffff;
+}
+
+#pushToTalkWindow {
+    background-color: #18191b;
+    box-shadow: -3px 3px 11px -1px #0d131a;
+    border: 1px solid #ffffff;
+}
+/* I have to keep positive even though some things here arent working I dont know why they dont when everything here looks like it will work Its hard to keep positive */
+.serverText {
+    background-color: #18191b !important;
+    color: #ffffff !important;
+}
+.serverText .webcamOpened {
+  background-color: #18191b !important;
+  color: #ffffff !important;
+}
+
+#loginGuestModal .radio label::before {
+    border: 2px solid #333f45;
+    background-color: transparent;
+}
+
+.welcome {
+    background-color: #18191b !important;
+    color: white !important;
+    border: 0px;
+}
+
+#loginGenderfemale label span {
+    color: #f20d47 !important;
+}
+
+#loginGendercouple label span {
+    color: #bbbbbb !important;
+}
+
+#pushToTalkWindowHeader {
+    color: #ffffff;
+    border-bottom: 1px solid #242c37;
+    background-color: #18191b;
+}
+
+.close:focus, .close:hover {
+    color: #3a3b3d;
+    text-decoration: none;
+    cursor: pointer;
+    filter: alpha(opacity=50);
+    opacity: .7;
+    text-shadow: 0px 0px;
+}
+
+#tabs .nav-tabs > li.active {
+    color: #ffffff
+    background-color: #18191b !important;
+}
+
+#uploadImageBtnLabel {
+    color: #ffffff;
+    border: 1px solid #7c849e73;
+}
+
+#roomsBtn img {
+    opacity: .9;
+}
+
+#roomsBtn:hover {
+    color: #525252;
+}
+
+.colorPicker_hexWrap {
+    display: none !important;
+}
+
+div.colorPicker-palette {
+    border: 1px solid #ffffff !important;
+    background-color: #18191b !important;
+    box-shadow: 1px 3px 12px 3px #0c1318;
+}
+
+#roomsBtn {
+    background-color: transparent;
+    border-right: 1px solid #e3e3e3;
+    color: #d7d7d7 !important;
+}
+
+#backgroundsContainer {
+    background-color: #18191b;
+    box-shadow: 2px 2px 15px -1px #00000080;
+}
+
+.emojionearea-picker {
+    background-color: #18191b !important;
+    box-shadow: 2px 2px 15px -1px #00000080 !important;
+}
+
+.oneRoomDiv {
+    border: 1px solid #dadada;
+}
+
+.roomTitle {
+    color: #393939;
+}
+
+.roomDesc {
+    color: #18191b;
+}
+
+.joinRoomModal {
+    background-color: #18191b;
+    color: white;
+}
+
+.joinRoomModal:hover {
+    color: #18191b;
+}
+
+#usersContainer2 .search-bar {
+    background-color: transparent;
+    border-bottom: 0px solid black !important;
+}
+
+#footer {
+    border-top: 1px solid #ffffff !important;
+    width: calc(100% - 40px);
+}
+
+.roomUsers, .roomUsers a {
+    color: #9f9f9f;
+}
+
+.right-subtitle {
+    color: #393939;
+}
+
+.right-subtitle span {
+    color: #9f9f9f;
+}
+
+.webcamRequest, .privateRequest, .privateClosed {
+    background-color: #18191b;
+    border-bottom: 0px solid #DDD;
+    color: #c7c7c7;
+}
+
+#footer .emojionearea.emojionearea-inline > .emojionearea-editor {
+    background-color: #18191b;
+    border-radius: 3px;
+}
+
+div.colorPicker-picker {
+    border: 2px solid #ffffff !important;
+}
+
+#roomContainer .table-bordered {
+    border: 0px solid #ddd;
+}
+
+.rooms-modal {
+    color: #b2b2b2;
+}
+
+.search-bar, #usersContainer #usersContainer2 .flex-container {
+    border-left: 0px solid #e7e7e7 !important;
+}
+
+.gender-color-male {
+    color: #0997ff !important;
+}
+
+.gender-color-female {
+    color: #ff0142 !important;
+}
+
+.gender-color-couple {
+    color: #777 !important;
+}
+
+.addPrivateMessage::after {
+    background-color: #18191b;
+    color: white;
+    font-weight: 700;
+    border-top: 1px solid #3a3b3d;
+}
+
+#usersContainer li a .badge {
+    background-color: #18191b !important;
+}
+
+.open .slide_block:before {
+    border-color: transparent transparent transparent #18191b;
+}
+
+.slide_block:before {
+    border-color: transparent #18191b transparent transparent;
+}
+
+.emojionearea .emojionearea-picker.emojionearea-filters-position-top .emojionearea-filters {
+    background-color: #18191b !important;
+    border-bottom: 1px solid #ffffff !important;
+}
+
+.emojionearea .emojionearea-picker .emojionearea-filters .emojionearea-filter.active {
+    background: #18191b;
+}
+
+div.addPrivateMessage {
+    background-color: #18191b !important;
+    border: 0px !important;
+    margin: 5px 0px;
+}
+
+.light-modal .table > caption + thead > tr:first-child > td, .table > caption + thead > tr:first-child > th, .table > colgroup + thead > tr:first-child > td, .table > colgroup + thead > tr:first-child > th, .table > thead:first-child > tr:first-child > td, .table > thead:first-child > tr:first-child > th:last-child {
+    border-right: 0px solid #dddddd !important;
+}
+
+.online-user-item:nth-child(odd) {
+    background-color: #18191b !important;
+    border-left: 1px solid #ffffff;
+}
+
+.webcamRequested, .privateRequested {
+    background-color: #18191b;
+    border-bottom: 0px solid #f4f4f4;
+    color: #8a96a4;
+}
+
+.open #chatContainer {
+    padding: 0px 315px 0px 0px !important;
+}
+
+.nav > li.active > a > img.white-svg, .nav > li > a > img.white-svg {
+    display: inline;
+}
+
+.nav > li.active > a > img.black-svg, .nav > li > a > img.black-svg {
+    display: none;
+}
+
+.btn-warning {
+    color: #18191b;
+    background-color: #18191b;
+    border-color: #f8df2a;
+}
+
+.btn-warning:hover {
+    color: #fff;
+    background-color: #18191b;
+    border-color: #f8e34a;
+}
+
+.userAvatar {
+    border: 1px solid #18191b !important;
+    background-color: #18191b;
+}
+
+.myAudioCheckBox {
+    border: 0px;
+}
+
+#myWebcamContainer label.btn:hover {
+    color: white;
+}
+
+.modal-footer .btn-default {
+    background-color: #18191b !important;
+    border: 0px;
+    color: white;
+    border-radius: 25px;
+}
+
+.modal-footer .btn-primary {
+    color: #fff;
+    background-color: #18191b;
+    border-color: #18191b;
+    box-shadow: 1px 1px 15px 1px #00000030;
+    border: 1px solid #ffffff;
+}
+
+#roomsContainer2 .table-bordered {
+    background-color: #18191b;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: #18191b;
+}
+
+.table-striped > tbody > tr:nth-of-type(even) {
+    background-color: #18191b;
+}
+
+
+.open #footer {
+    border-top: 1px solid #ffffff !important;
+    background-color: transparent !important;
+    border-right: 0px solid #262c3a !important;
+    margin-left: 0px;
+}
+
+.chat-window-wrap div.message.addPrivateMessage div.content {
+    color: #18191b !important;
+}
+
+.checkbox label::before {
+    border: 1px solid #ffffff !important;
+    background-color: #18191b !important;
+}
+
+.ps-container:hover > .ps-scrollbar-x-rail, .ps-container:hover > .ps-scrollbar-y-rail {
+    background-color: transparent !important;
+}
+
+.ps-container > .ps-scrollbar-y-rail > .ps-scrollbar-y {
+    background-color: #18191b !important;
+}
+
+#loginGuestModal {
+
+}
+
+#loginGuestModal .modal-dialog {
+
+}
+
+.emojionearea .emojionearea-editor {
+    color: #9d9d9d;
+}
+
+#loginGuestModal.light-modal .modal-content, #loginModal.light-modal .modal-content, #reportModal.light-modal .modal-content,
+#registerModal .modal-content, #tipsModal .modal-content{
+    background-color: #18191b !important;
+}
+
+.light-modal .form-group input {
+    border-bottom: 1px solid #18191b;
+}
+
+.chat-window-wrap div.message.myMessage div.content {
+    background-color: #18191b !important;
+}
+
+.myMessage .arrow-chat::after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    bottom: 0px;
+    left: 10px;
+    top: 1px;
+    box-sizing: border-box;
+    border: 7px solid black;
+    border-color: #FFF #FFF transparent transparent;
+    transform-origin: 0 0;
+    transform: rotate(-45deg);
+    /* box-shadow: 2px -1px 1px 0 rgb(255, 55, 55); */
+}
+
+.chat-window-wrap .message img, .addPrivateMessage b img {
+    /* background-color: #18191b !important; */
+}
+
+.myMessage .chat-window-wrap .message img, .addPrivateMessage b img {
+    background-color: #18191b !important;
+}
+
+#myUserMenu, #userMenu {
+    box-shadow: 5px 4px 29px -3px #000000cf;
+    border: 1px solid #ffffff;
+}
+
+.userItem:hover, #myUserMenu, #userMenu {
+    background-color: #18191b !important;
+}
+
+#calendarBtn {
+    background-color: #18191b;
+    color: #c9c7c7;
+}
+
+#calendarBtn:hover {
+    color: #f20d47;
+}
+
+#calendarContainer {
+
+}
+
+div.zabuto_calendar .table tr.calendar-dow-header th {
+    background-color: #18191b;
+    color: white;
+    border-top: 1px solid #ffffff;
+}
+
+div.zabuto_calendar tr.calendar-dow-header th, div.zabuto_calendar tr.calendar-dow td {
+    background-color: #18191b;
+    border-bottom: 1px solid #ffffff;
+    color: white;
+}
+
+div.zabuto_calendar .table tr.calendar-month-header td {
+    background-color: #18191b;
+    border-color: #ffffff;
+    color: white;
+}
+
+div.zabuto_calendar .table tr td.event div.day, div.zabuto_calendar ul.legend li.event {
+    background-color: #18191b;
+}
+
+div.textarea-icons-wrapper.flex-property {
+    background: #18191b;
+}
+
+.emojionearea, .emojionearea.form-control {
+    background-color: #18191b;
+}
+
+#roomsModal div.modal-content {
+    background-color: #18191b;
+}
+
+#backgroundsContainer label {
+    color: #cbcbcb;
+}
+
+#roomsContainer2, #usersContainer2, #friendsContainer2 {
+    background-color: #18191b;
+}
+
+.userItem {
+    border: none;
+}
+
+#sortBtn, #sortWebcamtBtn, #sortWatchersBtn {
+    color: white;
+    background: #18191b;
+    border: none;
+}
+
+#usersContainer2 button.selected {
+    background-color: #18191b;
+}
+
+.headerPrivateBtn, .headerWhisperBtn {
+    background: none !important;
+    color: white;
+}
+
+div.webcamHeader {
+    background: #18191b;
+    color: white;
+}
+
+.gutter {
+    background-color: #18191b;
+}
+.windowChat {
+    background-color: initial;
+}
+
+div.jsPanel[data-btnmaximize="enabled"] .jsPanel-headerbar {
+    background-color: #18191b;
+    color: white;
+}
+.headerPrivateBtn:hover, .headerWhisperBtn:hover {
+    color:red;
+}
+
+#tableRoomBody .activeRoom {
+     background-color: #18191b;
+}
+button.roomJoinBtn {
+    background: #ff0142;
+    border-color: #ff0142!important;
+}
+/* ============ medias for phones ============== */
+
+
+@media only screen and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 768px) {
+    #usersContainer2, #roomsContainer2, #usersContainer li a {
+        border-right: 0 !important;
+    }
+
+    #usersContainer .nav-pills > li.active > a:hover, #usersContainer .nav-pills > li > a:hover {
+        border-right: 0 solid white;
+    }
+
+    .open #roomsContainer2 {
+        border-left: 1px solid #e7e7e7 !important;
+    }
+
+    .open #usersContainer2 {
+        border-left: 1px solid #18191b !important;
+    }
+
+    #roomsContainer2 {
+        border-left: 1px solid whitesmoke;
+    }
+}
+
+@media only screen and (max-width: 510px) {
+}
+
+@media only screen and (max-width: 480px) {
+    .msg-box {
+        border-bottom: 0 solid #f4f4f4;
+    }
+}
+/* This code is dedicated to the best friend and wife I could ever have in this world and she means more to me than I can ever say to anyone I love you so much and I want you to always know that even though you might never see any of this Know that you mean the world to me and nobody will ever take the feelings you give me away no matter how hard they try I love you Katrina   */
